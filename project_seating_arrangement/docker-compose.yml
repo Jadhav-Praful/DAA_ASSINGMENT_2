@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  seating-app:
+    # Build the Docker image from the Dockerfile in the current directory
+    build: .
+    # Name the container for easier management
+    container_name: seating_arrangement_app
+    volumes:
+      # Mount the current directory on the host to /app in the container.
+      # This allows the script to read 'input_data_tt.xlsx' and write the 'Output' folder.
+      - .:/app
+    # These two lines are essential for the script to accept user input from the terminal
+    stdin_open: true
+    tty: true

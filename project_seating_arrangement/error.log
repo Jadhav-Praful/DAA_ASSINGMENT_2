@@ -1,0 +1,58 @@
+2025-10-23 13:07:32,513 - INFO - Loading data from single Excel file: input_data_tt.xlsx
+2025-10-23 13:07:33,191 - INFO - Data loaded and cleaned successfully from all sheets.
+2025-10-23 13:07:33,192 - INFO - --- Processing Session: 30-Apr-2016 Morning ---
+2025-10-23 13:07:33,193 - INFO - Processing subjects: CS249, CH426, MM304, CB308, CE216, CB204, PH422, MM202
+2025-10-23 13:07:33,204 - INFO - No clashes found for this session.
+2025-10-23 13:07:33,234 - INFO - Generating output files in: Output/2016-04-30_Saturday/Morning
+2025-10-23 13:07:33,632 - INFO - --- Processing Session: 01-May-2016 Morning ---
+2025-10-23 13:07:33,633 - INFO - Processing subjects: HS202, HS212, HS225, HS302, HS312, HS341, HS331, HS713, EE574, MA524
+2025-10-23 13:07:33,647 - INFO - No clashes found for this session.
+2025-10-23 13:07:33,706 - INFO - Generating output files in: Output/2016-05-01_Sunday/Morning
+2025-10-23 13:07:34,998 - INFO - --- Processing Session: 01-May-2016 Evening ---
+2025-10-23 13:07:34,999 - INFO - Processing subjects: CS514, CE512, CH606, ME526, ME522, EE513, EE580, MM504, PH601, PH603, MH504, ME312, CE314, EE320, CS341
+2025-10-23 13:07:35,025 - INFO - No clashes found for this session.
+2025-10-23 13:07:35,085 - INFO - Generating output files in: Output/2016-05-01_Sunday/Evening
+2025-10-23 13:07:35,896 - INFO - --- Processing Session: 02-May-2016 Morning ---
+2025-10-23 13:07:35,898 - INFO - Processing subjects: HS514, CS372, CS392, CH422, EP206, PH201, CS244, PH426, MA424, CB302
+2025-10-23 13:07:35,920 - INFO - No clashes found for this session.
+2025-10-23 13:07:35,982 - INFO - Generating output files in: Output/2016-05-02_Monday/Morning
+2025-10-23 13:07:36,826 - INFO - --- Processing Session: 02-May-2016 Evening ---
+2025-10-23 13:07:36,827 - INFO - Processing subjects: MA504, CE506, MH502, EE507, MM502, CB504, CS546, CE318, ME332, EE309, MM302, CS267
+2025-10-23 13:07:36,854 - INFO - No clashes found for this session.
+2025-10-23 13:07:36,901 - INFO - Generating output files in: Output/2016-05-02_Monday/Evening
+2025-10-23 13:07:37,603 - INFO - --- Processing Session: 03-May-2016 Morning ---
+2025-10-23 13:07:37,604 - INFO - Processing subjects: CS259, MA428, MA220, CE218, CH428, ME216, EE205, EE341, MM206, MM306, ME314, EP202, PH420, CB206, CB304, MA533
+2025-10-23 13:07:37,634 - INFO - No clashes found for this session.
+2025-10-23 13:07:37,718 - INFO - Generating output files in: Output/2016-05-03_Tuesday/Morning
+2025-10-23 13:07:39,136 - INFO - --- Processing Session: 03-May-2016 Evening ---
+2025-10-23 13:07:39,137 - INFO - Processing subjects: CS551, CE514, ME542, ME544, EE514, EE549, PH602, PH513, CH604, ME546, CS358, CE320
+2025-10-23 13:07:39,161 - INFO - No clashes found for this session.
+2025-10-23 13:07:39,207 - INFO - Generating output files in: Output/2016-05-03_Tuesday/Evening
+2025-10-23 13:07:39,917 - INFO - --- Processing Session: 04-May-2016 Morning ---
+2025-10-23 13:07:39,917 - INFO - Processing subjects: HS716, CS209, MA430, CE220, ME214, EE280, EE382, MM204, PH428, PH608, EP204, CB208, CB424, CH424, MA216
+2025-10-23 13:07:39,940 - INFO - No clashes found for this session.
+2025-10-23 13:07:40,008 - INFO - Generating output files in: Output/2016-05-04_Wednesday/Morning
+2025-10-23 13:07:41,040 - INFO - --- Processing Session: 04-May-2016 Evening ---
+2025-10-23 13:07:41,041 - INFO - Processing subjects: CS547, CS568, CE545, CH607, ME567, ME547, ME552, EE560, MM510, CB502, MA522, PH703, CE324
+2025-10-23 13:07:41,065 - INFO - No clashes found for this session.
+2025-10-23 13:07:41,116 - INFO - Generating output files in: Output/2016-05-04_Wednesday/Evening
+2025-10-23 13:07:41,816 - INFO - --- Processing Session: 05-May-2016 Morning ---
+2025-10-23 13:07:41,817 - INFO - Processing subjects: CS277, MA422, MA218, CE214, ME208, EE203, PH424, CB202, NT512, CH434, EE561, EE731
+2025-10-23 13:07:41,835 - INFO - No clashes found for this session.
+2025-10-23 13:07:41,880 - INFO - Generating output files in: Output/2016-05-05_Thursday/Morning
+2025-10-23 13:07:42,631 - INFO - --- Processing Session: 05-May-2016 Evening ---
+2025-10-23 13:07:42,632 - INFO - Processing subjects: CE532, CE536, EE535, MM520, ME510, MA502, CB506, MA536, EP208, PH203, CS511, CE526, EE566
+2025-10-23 13:07:42,655 - INFO - No clashes found for this session.
+2025-10-23 13:07:42,696 - INFO - Generating output files in: Output/2016-05-05_Thursday/Evening
+2025-10-23 13:07:43,221 - INFO - --- Processing Session: 06-May-2016 Morning ---
+2025-10-23 13:07:43,222 - INFO - Processing subjects: MA225, CH432, EE528, MA546, HS702, MA426, MA541, ME541, ME534, ME506, PH605, CE534, CE568
+2025-10-23 13:07:43,252 - INFO - No clashes found for this session.
+2025-10-23 13:07:43,304 - INFO - Generating output files in: Output/2016-05-06_Friday/Morning
+2025-10-23 13:07:44,114 - INFO - --- Processing Session: 06-May-2016 Evening ---
+2025-10-23 13:07:44,115 - INFO - Processing subjects: EE529, CS508, CE528, CE570, EE573, CS563, MM512
+2025-10-23 13:07:44,128 - INFO - No clashes found for this session.
+2025-10-23 13:07:44,164 - INFO - Generating output files in: Output/2016-05-06_Friday/Evening
+2025-10-23 13:07:44,561 - INFO - Generating final summary reports...
+2025-10-23 13:07:44,678 - INFO - Successfully created 'Output/op_overall_seating_arrangement.xlsx'
+2025-10-23 13:07:44,793 - INFO - Successfully created 'Output/op_seats_left.xlsx'
+2025-10-23 13:07:44,794 - INFO - --- Seating Arrangement Process Completed ---
